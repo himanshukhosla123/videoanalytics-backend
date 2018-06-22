@@ -2,7 +2,10 @@
   "name": "video-analytics-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "serverdemo.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "assert": "^1.4.1",
     "aws-sdk": "^2.259.1",
